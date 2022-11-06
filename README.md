@@ -8,3 +8,6 @@
 6. DBMS
 7. Computer Networks
 8. System Design
+9. CyberSecurity/Ethical Hacking/Penetration Testing
+10. Data Science
+11. 
