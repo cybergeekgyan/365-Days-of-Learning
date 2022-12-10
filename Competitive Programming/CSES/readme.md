@@ -43,77 +43,79 @@ https://cses.fi/problemset/
 - [ ] [Grid Paths]()
 
 ### Sorting and Searching
-Distinct Numbers
-28852 / 29898
-Apartments
-19629 / 22492
-Ferris Wheel
-18493 / 20359
-Concert Tickets
-14631 / 17727
-Restaurant Customers
-15129 / 16542
-Movie Festival
-14380 / 15336
-Sum of Two Values
-17163 / 18962
-Maximum Subarray Sum
-16538 / 17487
-Stick Lengths
-14632 / 15512
-Missing Coin Sum
-9190 / 9564
-Collecting Numbers
-9568 / 10379
-Collecting Numbers II
-3850 / 4992
-Playlist
-11360 / 13030
-Towers
-11553 / 12523
-Traffic Lights
-8895 / 10024
-Josephus Problem I
-5320 / 6062
-Josephus Problem II
-3170 / 4102
-Nested Ranges Check
-2833 / 3401
-Nested Ranges Count
-2121 / 2453
-Room Allocation
-6581 / 7757
-Factory Machines
-7674 / 8754
-Tasks and Deadlines
-7706 / 7891
-Reading Books
-6157 / 6612
-Sum of Three Values
-8845 / 9901
-Sum of Four Values
-5841 / 6475
-Nearest Smaller Values
-7472 / 7774
-Subarray Sums I
-9291 / 10097
-Subarray Sums II
-8803 / 9765
-Subarray Divisibility
-7699 / 8351
-Subarray Distinct Values
-3851 / 4136
-Array Division
-6507 / 6927
-Sliding Median
-4636 / 5376
-Sliding Cost
-3190 / 3621
-Movie Festival II
-3992 / 4832
-Maximum Subarray Sum II
-3720 / 4403
-Dynamic Programming
+
+- [ ] [Distinct Numbers]()
+
+- [ ] [Apartments]()
+
+- [ ] [Ferris Wheel]()
+
+- [ ] [Concert Tickets]()
+
+- [ ] [Restaurant Customers]()
+
+- [ ] [Movie Festival]()
+
+- [ ] [Sum of Two Values]()
+
+- [ ] [Maximum Subarray Sum]()
+
+- [ ] [Stick Lengths]()
+
+- [ ] [Missing Coin Sum]()
+
+- [ ] [Collecting Numbers]()
+
+- [ ] [Collecting Numbers II]()
+
+- [ ] [Playlist]()
+
+- [ ] [Towers]()
+
+- [ ] [Traffic Lights]()
+
+- [ ] [Josephus Problem I]()
+
+- [ ] [Josephus Problem II]()
+
+- [ ] [Nested Ranges Check]()
+
+- [ ] [Nested Ranges Count]()
+
+- [ ] [Room Allocation]()
+
+- [ ] [Factory Machines]()
+
+- [ ] [Tasks and Deadlines]()
+
+- [ ] [Reading Books]()
+
+- [ ] [Sum of Three Values]()
+
+- [ ] [Sum of Four Values]()
+
+- [ ] [Nearest Smaller Values]()
+
+- [ ] [Subarray Sums I]()
+
+- [ ] [Subarray Sums II]()
+
+- [ ] [Subarray Divisibility]()
+
+- [ ] [Subarray Distinct Values]()
+
+- [ ] [Array Division]()
+
+- [ ] [Sliding Median]()
+
+- [ ] [Sliding Cost]()
+
+- [ ] [Movie Festival II]()
+
+- [ ] [Maximum Subarray Sum II]()
+
+
+# Dynamic Programming
 Dice Combinations
 26237 / 28018
 Minimizing Coins
