@@ -5,7 +5,7 @@ https://cses.fi/problemset/
 ### Introductory Problems
 |     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
 | --------------- | ---------- | ------ | -------- | -------------- | ----------- |
-| [Weird Algorithm]  |         |        |          |         
+| [Weird Algorithm]()  |         |        |          |         
 | [Missing Number]() | 
 | [Repetitions]() | 
 | [Increasing Array]() |
