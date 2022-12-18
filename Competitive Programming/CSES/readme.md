@@ -290,140 +290,72 @@ https://cses.fi/problemset/
 | [Even Outdegree Edges]() |
 | [Multiplication Table]() |
 | [Advertisement]() |
-
-Special Substrings
-
-Permutation Inversions
-
-Maximum Xor Subarray
-
-Movie Festival Queries
-
-Chess Tournament
-
-Tree Traversals
-
-Network Renovation
-
-Graph Girth
-
-Intersection Points
-
-Inverse Inversions
-
-Monotone Subsequences
-
-String Reorder
-
-Stack Weights
-
-Pyramid Array
-
-Increasing Subsequence II
-
-String Removals
-
-Bit Inversions
-
-Xor Pyramid
-
-Writing Numbers
-
-String Transform
-
-Letter Pair Move Game
-
-Maximum Building I
-
-Sorting Methods
-
-Cyclic Array
-
-List of Sums
-
-Increasing Array II
-
-Food Division
-
-Bit Problem
-
-Swap Round Sorting
-
-Binary Subsequences
-
-Tree Isomorphism I
-
-Counting Sequences
-
-Critical Cities
-
-School Excursion
-
-Coin Grid
-
-Robot Path
-
-Programmers and Artists
-
-Course Schedule II
-
-Removing Digits II
-
-Coin Arrangement
-
-Counting Bishops
-
-Grid Puzzle I
-
-Grid Puzzle II
-
-Empty String
-
-Grid Paths
-
-Bit Substrings
-
-Reversal Sorting
-
-Counting Reorders
-
-Book Shop II
-
-Network Breakdown
-
-Visiting Cities
-
-Missing Coin Sum Queries
-
-Number Grid
-
-Maximum Building II
-
-Filling Trominos
-
-Stick Divisions
-
-Coding Company
-
-Flight Route Requests
-
-Two Stacks Sorting
-
-Tree Isomorphism II
-
-Forbidden Cities
-
-Area of Rectangles
-
-Grid Completion
-
-Creating Offices
-
-Permutations II
-
-Functional Graph Distribution
-
-New Flight Routes
-
-Grid Path Construction
+| [Special Substrings]() |
+| [Permutation Inversions]() |
+| [Maximum Xor Subarray]() |
+| [Movie Festival Queries]() |
+| [Chess Tournament]() |
+| [Tree Traversals]() |
+| [Network Renovation]() |
+| [Graph Girth]() |
+| [Intersection Points]() |
+| [Inverse Inversions]() |
+| [Monotone Subsequences]() |
+| [String Reorder]() |
+| [Stack Weights]() |
+| [Pyramid Array]() |
+| [Increasing Subsequence II]() |
+| [String Removals]() |
+| [Bit Inversions]() |
+| [Xor Pyramid]() |
+| [Writing Numbers]() |
+| [String Transform]() |
+| [Letter Pair Move Game]() |
+| [Maximum Building I]() |
+| [Sorting Methods]() |
+| [Cyclic Array]() |
+| [List of Sums]() |
+| [Increasing Array II]() |
+| [Food Division]() |
+| [Bit Problem]() |
+| [Swap Round Sorting]() |
+| [Binary Subsequences]() 
+| [Tree Isomorphism I]() |
+| [Counting Sequences]() |
+| [Critical Cities]() |
+| [School Excursion]() |
+| [Coin Grid]() |
+| [Robot Path]() |
+| [Programmers and Artists]() |
+| [Course Schedule II]() |
+| [Removing Digits II]() |
+| [Coin Arrangement]() |
+| [Counting Bishops]() |
+| [Grid Puzzle I]() |
+| [Grid Puzzle II]() |
+| [Empty String]() |
+| [Grid Paths]() |
+| [Bit Substrings]() |
+| [Reversal Sorting]() |
+| [Counting Reorders]() |
+| [Book Shop II]() |
+| [Network Breakdown]() |
+| [Visiting Cities]() |
+| [Missing Coin Sum Queries]() |
+| [Number Grid]() |
+| [Maximum Building II]() |
+| [Filling Trominos]() |
+| [Stick Divisions]() |
+| [Coding Company]() |
+| [Flight Route Requests]() |
+| [Two Stacks Sorting]() |
+| [Tree Isomorphism II]() |
+| [Forbidden Cities]() |
+| [Area of Rectangles]() |
+| [Grid Completion]() |
+| [Creating Offices]() |
+| [Permutations II]() |
+| [Functional Graph Distribution]() |
+| [New Flight Routes]() |
+| [Grid Path Construction]() |
 
