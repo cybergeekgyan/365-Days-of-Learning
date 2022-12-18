@@ -289,8 +289,7 @@ https://cses.fi/problemset/
 | [Strongly Connected Edges]() |
 | [Even Outdegree Edges]() |
 | [Multiplication Table]() |
-
-Advertisement
+| [Advertisement]() |
 
 Special Substrings
 
