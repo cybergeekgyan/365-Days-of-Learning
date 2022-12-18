@@ -66,195 +66,122 @@ https://cses.fi/problemset/
 | [Maximum Subarray Sum II]()|
 
 
-# Dynamic Programming
-Dice Combinations
-26237 / 28018
-Minimizing Coins
-22811 / 24448
-Coin Combinations I
-21137 / 22877
-Coin Combinations II
-17936 / 20361
-Removing Digits
-19795 / 20154
-Grid Paths
-18477 / 19068
-Book Shop
-16598 / 18390
-Array Description
-11902 / 13329
-Counting Towers
-5745 / 6121
-Edit Distance
-12305 / 13107
-Rectangle Cutting
-10383 / 11386
-Money Sums
-12202 / 12742
-Removal Game
-8911 / 9648
-Two Sets II
-9826 / 10683
-Increasing Subsequence
-10085 / 11515
-Projects
-6506 / 7418
-Elevator Rides
-3534 / 4599
-Counting Tilings
-1996 / 2194
-Counting Numbers
-2546 / 2884
-Graph Algorithms
-Counting Rooms
-18166 / 19304
-Labyrinth
-11664 / 14494
-Building Roads
-15101 / 15743
-Message Route
-12898 / 13510
-Building Teams
-12439 / 13062
-Round Trip
-9961 / 11022
-Monsters
-5788 / 7287
-Shortest Routes I
-10467 / 11690
-Shortest Routes II
-8738 / 9519
-High Score
-5235 / 7219
-Flight Discount
-5707 / 7183
-Cycle Finding
-4818 / 5719
-Flight Routes
-4111 / 4637
-Round Trip II
-5013 / 5756
-Course Schedule
-6803 / 7089
-Longest Flight Route
-4482 / 5767
-Game Routes
-5038 / 5540
-Investigation
-3549 / 3849
-Planets Queries I
-3074 / 3714
-Planets Queries II
-1311 / 1619
-Planets Cycles
-2058 / 2281
-Road Reparation
-4690 / 4899
-Road Construction
-4957 / 5152
-Flight Routes Check
-4344 / 4793
-Planets and Kingdoms
-3522 / 3668
-Giant Pizza
-1517 / 1674
-Coin Collector
-2259 / 2505
-Mail Delivery
-1945 / 2195
-De Bruijn Sequence
-1087 / 1133
-Teleporters Path
-1535 / 1753
-Hamiltonian Flights
-1899 / 2187
-Knight's Tour
-963 / 1132
-Download Speed
-1986 / 2173
-Police Chase
-1331 / 1468
-School Dance
-1396 / 1466
-Distinct Routes
-856 / 1155
-Range Queries
-Static Range Sum Queries
-12000 / 12552
-Static Range Minimum Queries
-9129 / 9745
-Dynamic Range Sum Queries
-9406 / 9854
-Dynamic Range Minimum Queries
-8370 / 8598
-Range Xor Queries
-8400 / 8519
-Range Update Queries
-6715 / 7213
-Forest Queries
-6431 / 6712
-Hotel Queries
-4822 / 5128
-List Removals
-4014 / 4232
-Salary Queries
-2996 / 3586
-Prefix Sum Queries
-2118 / 2296
-Pizzeria Queries
-1739 / 1802
-Subarray Sum Queries
-2544 / 2747
-Distinct Values Queries
-2451 / 2894
-Increasing Array Queries
-773 / 900
-Forest Queries II
-1713 / 1827
-Range Updates and Sums
-1884 / 2301
-Polynomial Queries
-1484 / 1757
-Range Queries and Copies
-1007 / 1068
-Tree Algorithms
-Subordinates
-10132 / 10781
-Tree Matching
-5400 / 6471
-Tree Diameter
-8279 / 8787
-Tree Distances I
-5801 / 6330
-Tree Distances II
-4780 / 4996
-Company Queries I
-5266 / 5581
-Company Queries II
-4999 / 5238
-Distance Queries
-4794 / 5129
-Counting Paths
-2744 / 2914
-Subtree Queries
-3496 / 3747
-Path Queries
-2717 / 2871
-Path Queries II
-1170 / 1370
-Distinct Colors
-2582 / 2951
-Finding a Centroid
-1888 / 1963
-Fixed-Length Paths I
-950 / 1058
-Fixed-Length Paths II
-722 / 783
-Mathematics
-Josephus Queries
-1164 / 1498
+### Dynamic Programming
+|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+| [Dice Combinations]() | 
+| [Minimizing Coins]() | 
+| [Coin Combinations I]() |
+| [Coin Combinations II]() |
+| [Removing Digits]() |
+| [Grid Paths]() |
+| [Book Shop]() |
+| [Array Description]() |
+| [Counting Towers]() |
+| [Edit Distance]() |
+| [Rectangle Cutting]() |
+| [Money Sums]() |
+| [Removal Game]() |
+| [Two Sets II]() |
+| [Increasing Subsequence]() |
+| [Projects]() |
+| [Elevator Rides]() |
+| [Counting Tilings]() |
+| [Counting Numbers]() |
+
+### Graph Algorithms
+|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+| [Counting Rooms]() |
+| [Labyrinth]() |
+| [Building Roads]() |
+| [Message Route]() | 
+| [Building Teams]() |
+| [Round Trip]() |
+| [Monsters]() |
+| [Shortest Routes I]() |
+| [Shortest Routes II]() |
+| [High Score]() |
+| [Flight Discount]() |
+| [Cycle Finding]() |
+| [Flight Routes]() |
+| [Round Trip II]() |
+| [Course Schedule]() | 
+| [Longest Flight Route]() |
+| [Game Routes]() |
+| [Investigation]() |
+| [Planets Queries I]() |
+| [Planets Queries II]() |
+| [Planets Cycles]() |
+| [Road Reparation]() |
+| [Road Construction]() |
+| [Flight Routes Check]() |
+| [Planets and Kingdoms]() |
+| [Giant Pizza]() |
+| [Coin Collector]() |
+| [Mail Delivery]() |
+| [De Bruijn Sequence]() |
+| [Teleporters Path]() |
+| [Hamiltonian Flights]() |
+| [Knight's Tour]() |
+| [Download Speed]() |
+| [Police Chase]() |
+| [School Dance]() |
+| [Distinct Routes]() |
+
+
+### Range Queries
+|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+| [Static Range Sum Queries]() |
+| [Static Range Minimum Queries]() |
+| [Dynamic Range Sum Queries]() |
+| [Dynamic Range Minimum Queries]() | 
+| [Range Xor Queries]() |
+| [Range Update Queries]() |
+| [Forest Queries]() |
+| [Hotel Queries]() |
+| [List Removals]() |
+| [Salary Queries]() |
+| [Prefix Sum Queries]() |
+| [Pizzeria Queries]() |
+| [Subarray Sum Queries]() |
+| [Distinct Values Queries]() |
+| [Increasing Array Queries]() |
+| [Forest Queries II]() |
+| [Range Updates and Sums]() |
+| [Polynomial Querie]() |
+| [Range Queries and Copies]() |
+
+
+### Tree Algorithms
+|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+| [Subordinates]() |
+| [Tree Matching]() |
+| [Tree Diameter]() |
+| [Tree Distances I]() |
+| [Tree Distances II]() | 
+| [Company Queries I]() |
+| [Company Queries II]() |
+| [Distance Queries]() |
+| [Counting Paths]() |
+| [Subtree Queries]() |
+| [Path Queries]() |
+| [Path Queries II]() |
+| [Distinct Colors]() |
+| [Finding a Centroid]() |
+| [Fixed-Length Paths I]() |
+| [Fixed-Length Paths II]() |
+
+
+### Mathematics
+|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+| [Josephus Queries]()
+|
 Exponentiation
-8405 / 9187
+
 Exponentiation II
 6135 / 7575
 Counting Divisors
@@ -313,9 +240,13 @@ Grundy's Game
 494 / 627
 Another Game
 511 / 553
-String Algorithms
-Word Combinations
-1634 / 2667
+
+
+### String Algorithms
+|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+|[Word Combinations]()
+
 String Matching
 3631 / 4811
 Finding Borders
@@ -363,9 +294,13 @@ Minimum Euclidean Distance
 622 / 931
 Convex Hull
 1008 / 1235
-Advanced Techniques
-Meet in the Middle
-1999 / 2847
+
+
+### Advanced Techniques
+|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+|[Meet in the Middle]() |
+
 Hamming Distance
 985 / 1071
 Beautiful Subgrids
@@ -412,9 +347,13 @@ Task Assignment
 210 / 224
 Distinct Routes II
 173 / 199
-Additional Problems
-Shortest Subsequence
-1218 / 1603
+
+
+### Additional Problems
+|     Problems    |    Topic   | Tags   | Solution | Video Solution |    Blog     |
+| --------------- | ---------- | ------ | -------- | -------------- | ----------- |
+| [Shortest Subsequence]()
+
 Counting Bits
 1387 / 1812
 Swap Game
