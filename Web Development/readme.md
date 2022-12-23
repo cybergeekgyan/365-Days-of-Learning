@@ -6,6 +6,24 @@
 | [MongoDB - The Complete Developer's Guide 2023]() |
 | [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)]() |
 
+
+## Few of my favorite tools as a web developer ⚒️
+
+→ Colorion .co 🎨<br>
+→ Google fonts 🆎<br>
+→ RapidAPI Extension ✨<br>
+→ Dribbble💫<br>
+→ TablerIcons 🖼️<br>
+→ Vercel 🚤<br>
+→ Netlify 🕸️<br>
+→ VSCode 💻<br>
+→ W3 Schools 🌐<br>
+→ GitHub 🐙<br>
+→ Stack overflow❓<br>
+→ Chrome DevTools 🛠️<br>
+
+
+
 |    Topics/Tools   | Tags   | code | Video |    Blog     |
 | ----------------- | ------ | -------- | ----- | ----------- | 
 | [HTML5]() |
