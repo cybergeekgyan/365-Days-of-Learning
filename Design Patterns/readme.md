@@ -22,16 +22,18 @@
 - [Mediator]() : Define an object that encapsulates how a set of objects interact. Mediator promotes loose coupling by keeping objects from referring to each other explicitly, and it lets you vary their interaction independently.
 - [Memento]() : Define a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
 - [Observer]() : Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
-- [Strategy]() : 
-- [Template Method]()
-- [Visitor]()
-- [Null Object]()
+- [Strategy]() : Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
+- [Template Method]() : Define the skeleton of an algorithm in an operation, deferring some steps to subclasses / Template Method lets subclasses redefine certain steps of an algorithm without letting them to change the algorithm's structure.
+- [Visitor]() : Represents an operation to be performed on the elements of an object structure / Visitor lets you define a new operation without changing the classes of the elements on which it operates.
+- [Null Object]() : Provide an object as a surrogate for the lack of an object of a given type. / The Null Object Pattern provides intelligent do nothing behavior, hiding the details from its collaborators.
 
 ## Structural Patterns
 
-- [Adapter]()
-- [Bridge]()
-- [Composite]()
-- [Decorator]()
-- [Flyweight]()
-- [Proxy]()
+- [Adapter]() : Convert the interface of a class into another interface clients expect. / Adapter lets classes work together, that could not otherwise because of incompatible interfaces.
+
+- [Bridge]() : Compose objects into tree structures to represent part-whole hierarchies. / Composite lets clients treat individual objects and compositions of objects uniformly.
+- [Composite]() : Compose objects into tree structures to represent part-whole hierarchies. / Composite lets clients treat individual objects and compositions of objects uniformly.
+- [Decorator]() : add additional responsibilities dynamically to an object.
+- [Flyweight]() : use sharing to support a large number of objects that have part of their internal state in common where the other part of state can vary.
+- [Momento]() : capture the internal state of an object without violating encapsulation and thus providing a mean for restoring the object into initial state when needed.
+- [Proxy]() : provide a “Placeholder” for an object to control references to it.
