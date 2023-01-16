@@ -4,6 +4,11 @@
 
 ## STEPS
 
+- Programming Languages 
+
+   - [Python]()
+   - [Go]()
+
 
 
 ## TOOLS
