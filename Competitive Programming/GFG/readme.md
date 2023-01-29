@@ -20,3 +20,5 @@
 ### 2. [Must Do Coding Questions](https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/?ref=leftbar-rightbar#Math)
 
 ### 3. [Competitive Programming – A Complete Guide](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=shm#1)
+
+### 4. [Must Do coding questions for FAANG Companies](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=lbp)
