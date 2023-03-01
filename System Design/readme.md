@@ -8,4 +8,7 @@
 | [Design Gurus]() |<a href="https://www.youtube.com/watch?v=hmkF77F9TLw" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" height="20" width="40" alt="youtube play red logo png transparent background" /></a> |
 | [System Design Interview-Book]() |
 | [Designing Data Intensive Applications-Book]() |
+| [Cracking the Coding Interview-Book]() |
+| [Clean Code-Book]() |
+| [Building Microservices-Book]() |
 | [Highscalability](http://highscalability.com) |
