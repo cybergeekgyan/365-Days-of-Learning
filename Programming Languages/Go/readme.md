@@ -1,6 +1,12 @@
 # Golang(GO)
 
-Golang is a powerful and versatile programming language with a wide range of applications. Here are some of the most important topics to master in Golang:
+Golang is a powerful and versatile programming language with a wide range of applications. 
+
+## Roadmap
+
+![go-roadmap](https://github.com/cybergeekgyan/365-Days-of-Learning/blob/main/Programming%20Languages/Go/go.jpg)
+
+Here are some of the most important topics to master in Golang:
 
 - [Basics of Golang](): Before diving into the more advanced topics, it's important to learn the basics of Golang such as 
    - syntax, data types, variables, functions, control structures, and operators.
@@ -27,5 +33,4 @@ Golang is a powerful and versatile programming language with a wide range of app
 
 **NOTE**: *By mastering these topics, you'll be well on your way to becoming a proficient Golang developer.*
 
-## GO Roadmap
 
