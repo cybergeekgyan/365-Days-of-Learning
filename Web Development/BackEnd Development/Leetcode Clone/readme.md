@@ -3,8 +3,11 @@
 
 ## FUNCTIONS
 
+
+### Backend features
 - Login 
 - Signup
+- Admin Config : To be able to post the questions and edit if there is any mistake
 - Question
   - Problem Statement 
   - Test Cases
