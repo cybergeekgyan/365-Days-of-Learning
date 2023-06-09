@@ -1,7 +1,7 @@
 # Striver SDE Sheet Challenge
 
-| Day | TOPICS | Problem | Code | Solution | Blog | Notes |
-| ----| -------|----------|-----|----------|------|-------|
+| Day | TOPICS | Problem | Code | Solution | Blog | Notes |Solved |
+| ----| -------|----------|-----|----------|------|-------|-----|
 | **1** | Arrays - I | [Set Matrix Zeros]() | 
 |     | | [Pascal's Triangle]() | 
 |   | | [Next Permutation]() |
