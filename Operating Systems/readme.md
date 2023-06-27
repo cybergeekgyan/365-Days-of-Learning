@@ -17,10 +17,10 @@
 | Day | Topics | Description | Video | Notes | Blog |
 | -----|-------|-----------|--------|-------|----| 
 | 01 | Basics of Operating Systems | 
-| 02 | 
-| 03 | 
-| 04 |
-| 05 |
-| 06 | 
-| 07 |
-| 08 |
+| 02 | Process(CPU) Scheduling |
+| 03 | Process Synchronization |
+| 04 | Deadlock, Processes, and Threads |
+| 05 | Memory Management |
+| 06 | Disk Scheduling |
+| 07 | File and Disk Management and Security |
+| 08 | Unix Commands |
