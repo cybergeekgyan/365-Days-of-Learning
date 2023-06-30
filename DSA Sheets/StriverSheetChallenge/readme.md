@@ -32,7 +32,44 @@
 | | | 
 | **5** | LinkedList - I | [Reverse a LinkedList]() |
 | | | [Find the middle of the LinkedList]() |
-| | | [Merge two sorted linkedin list]() |
+| | | [Merge two sorted Linked list]() |
 | | | [Remove N-th Node from back of LinkedList]() |
 | | | [Add two numbers as LinkedList]() |
 | | | [Delete a given Node when a Node is given]() |
+| | |
+| **6** | LinkedList - II | [Find intersection point of Y LinkedList]() |
+| | | [Detect a cycle in Linked List]()	|
+| | | [Reverse a LinkedList in groups of size k]() |		
+| | | [Check if a LinkedList is a palindrome or not…]() |	
+| | | [Find the starting point of the Loop of Linkedlist]() |	
+| | | [Flattening of a LinkedList]() |
+| | |
+| **7** | LinkedList and Arrays | [Rotate a LinkedList]() |		
+| | | [Clone a Linked List with random and next pointer]() |
+| | | [3 Sum]() |
+| | | [Trapping Rainwater]() |		
+| | | [Remove Duplicate from a Sorted array]() |	
+| | | [Max consecutive ones]() |
+| | |
+| **8** | Greedy Algorithms | [N meetings in one room]() |		
+| | | [Minimum number of platforms required for a railway]() |
+| | | [Job sequencing Problem]() |
+| | | [Fractional Knapsack Problem]() |
+| | | [Greedy algorithm to find the minimum number of coins]() |
+| | | [Activity Selection (it is the same as N meetings in one room]() |
+| | |
+| **9** | Recursion | [Subset Sums]() |		
+| | | [Subset-II]() |		
+| | | [Combination sum-1	]()	|
+| | | [Combination sum-2]() |	
+| | | [Palindrome Partitioning]() |	
+| | | [K-th permutation Sequence]() |
+| | |
+| **10** | Recursion and Backtracking | [Print all permutations of a string/array	]() |	
+| | | [N queens Problem]() |	
+| | | [Sudoku Solver]() |
+| | | [M Coloring Problem]() |
+| | | [Rat in a Maze	]() |
+| | | [Word Break (print all ways)]() |
+| | |
+
