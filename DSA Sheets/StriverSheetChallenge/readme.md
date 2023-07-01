@@ -72,4 +72,13 @@
 | | | [Rat in a Maze	]() |
 | | | [Word Break (print all ways)]() |
 | | |
+| **11** | Binary Search | [The N-th root of an integer	]() |	
+| | | [Matrix Median]() |
+| | | [Find the element that appears once in a sorted array		]() |
+| | | [Search element in a sorted and rotated arrary		]() |
+| | | [Median of 2 sorted arrays]() |
+| | | [K-th element of two sorted arrays]() |
+| | | [Allocate Minimum Number of Pages]() |	
+| | | [Aggressive Cows]() |
+| | | 
 
