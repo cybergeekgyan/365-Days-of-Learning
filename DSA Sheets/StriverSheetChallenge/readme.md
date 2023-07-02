@@ -81,4 +81,11 @@
 | | | [Allocate Minimum Number of Pages]() |	
 | | | [Aggressive Cows]() |
 | | | 
+| **12** | Heaps | [Max heap, Min Heap Implementation]() |			
+| | | [Kth Largest Element]() |				
+| | | [Maximum Sum Combination]() |
+| | | [Find Median from Data Stream]() |	
+| | | [Merge K sorted arrays]() |				
+| | | [K most frequent elements]() |
+| | | 
 
