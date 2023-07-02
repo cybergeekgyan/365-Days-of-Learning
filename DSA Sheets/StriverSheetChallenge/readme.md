@@ -2,7 +2,7 @@
 
 | Day | TOPICS | Problem | Code | Solution | Blog | Notes |Solved |
 | ----| -------|----------|-----|----------|------|-------|-----|
-| **1** | Arrays - I | [Set Matrix Zeros]() | 
+| **1** | Arrays - I | [Set Matrix Zeros]() | || | | [Yes] |
 |     | | [Pascal's Triangle]() | 
 |   | | [Next Permutation]() |
 | | | [Kadane's Algorithm]() |
