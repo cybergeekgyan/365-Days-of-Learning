@@ -81,3 +81,7 @@
 - Lake Formation
 
 NOTE: *This only scratches the surface of what AWS is capable of! I hope this was helpful, you can find the complete roadmap [here](https://github.com/karanpratapsingh/roadmaps) as well. As always, feel free to reach out anytime!*
+
+## AWS CERTIFICATIONS 
+
+![aws certifications](https://github.com/cybergeekgyan/365-Days-of-Learning/blob/main/Cloud%20Computing/Amazon%20Web%20Services/1*2fyw9zqntb47qCnXcuSLtw.png)
