@@ -2,8 +2,8 @@
 
 | Day | TOPICS | Problem | Code | Solution | Blog | Notes |Solved |
 | ----| -------|----------|-----|----------|------|-------|-----|
-| **1** | Arrays - I | [Set Matrix Zeros]() | || | | [Yes-solved] |
-|     | | [Pascal's Triangle]() | 
+| **1** | Arrays - I | [Set Matrix Zeros]() | | | | | [Yes] |
+|     | | [Pascal's Triangle]() | | | | | [Yes] |
 |   | | [Next Permutation]() |
 | | | [Kadane's Algorithm]() |
 | | | [Sort an array of 0's, 1's and 2's]() |
