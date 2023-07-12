@@ -7,7 +7,7 @@
 |   | | [Next Permutation]() | | | | | [Yes] |
 | | | [Kadane's Algorithm]() | | | | | [Yes] |
 | | | [Sort an array of 0's, 1's and 2's]() | | | | | [Yes] |
-| | | [Stock Buy and Sell]() |
+| | | [Stock Buy and Sell]() | | | | | [Yes] |
 | | | |
 | **2** | Arrays - II | [Rotate Matrix]() | 
 | | | [Merge Overlapping Subintervals]() |
