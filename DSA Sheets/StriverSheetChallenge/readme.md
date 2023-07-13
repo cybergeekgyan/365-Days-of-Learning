@@ -9,7 +9,7 @@
 | | | [Sort an array of 0's, 1's and 2's]() | | | | | [Yes] |
 | | | [Stock Buy and Sell]() | | | | | [Yes] |
 | | | |
-| **2** | Arrays - II | [Rotate Matrix]() | 
+| **2** | Arrays - II | [Rotate Matrix]() | | | | | [Yes] |
 | | | [Merge Overlapping Subintervals]() |
 | | | [Merge two sorted arrays without extra space]() |
 | | | [Find the duplicate in an array of N+1 Integers]() |
