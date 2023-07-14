@@ -10,15 +10,15 @@
 | | | [Stock Buy and Sell]() | | | | | [Yes] |
 | | | |
 | **2** | Arrays - II | [Rotate Matrix]() | | | | | [Yes] |
-| | | [Merge Overlapping Subintervals]() |
-| | | [Merge two sorted arrays without extra space]() |
-| | | [Find the duplicate in an array of N+1 Integers]() |
-| | | [Repeat and Missing Number]() |
+| | | [Merge Overlapping Subintervals]() |  | | | | [Yes] |
+| | | [Merge two sorted arrays without extra space]() |  | | | | [Yes] |
+| | | [Find the duplicate in an array of N+1 Integers]() |  | | | | [Yes] |
+| | | [Repeat and Missing Number]() |  | | | | [Yes] |
 | | | [Inversion of Array ( Pre-req : Merge Sort]() |
 | | | |
 | **3** | Arrays - III | [Search in a 2-D Matrix]() | 
 | | | [Pow(x,n)]() |
-| | | [Majority Element(>n/2 times)]() |
+| | | [Majority Element(>n/2 times)]() |  | | | | [Yes] |
 | | | [Majority Element(>n/3 times)]() |
 | | | [Grid Unique Paths]() |
 | | | [Reverse Pairs(Leetcode)]() |
