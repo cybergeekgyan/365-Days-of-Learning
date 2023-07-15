@@ -16,11 +16,11 @@
 | | | [Repeat and Missing Number]() |  | | | | [Yes] |
 | | | [Inversion of Array ( Pre-req : Merge Sort]() |
 | | | |
-| **3** | Arrays - III | [Search in a 2-D Matrix]() | 
-| | | [Pow(x,n)]() |
-| | | [Majority Element(>n/2 times)]() |  | | | | [Yes] |
-| | | [Majority Element(>n/3 times)]() |
-| | | [Grid Unique Paths]() |
+| **3** | Arrays - III | [Search in a 2-D Matrix]() |  | | | | [Yes] |
+| | | [Pow(x,n)]() |  | | | | [Yes] |
+| | | [Majority Element(>n/2 times)]() |  | | | | [Yes] | 
+| | | [Majority Element(>n/3 times)]() |  | | | | [Yes] |
+| | | [Grid Unique Paths]() |  | | | | [Yes] |
 | | | [Reverse Pairs(Leetcode)]() |
 | | | 
 | **4** | Arrays - IV | [Two Sum]() | 
