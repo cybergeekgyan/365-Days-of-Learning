@@ -23,7 +23,7 @@
 | | | [Grid Unique Paths]() |  | | | | [Yes] |
 | | | [Reverse Pairs(Leetcode)]() |
 | | | 
-| **4** | Arrays - IV | [Two Sum]() | 
+| **4** | Arrays - IV | [Two Sum]() |  | | | | [Yes] |
 | | | [4-Sum]() |
 | | | [Longest Consecutive Sequence]() |
 | | | [Largest Subarray with K Sum]() |
