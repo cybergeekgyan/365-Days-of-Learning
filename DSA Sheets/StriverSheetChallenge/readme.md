@@ -24,7 +24,7 @@
 | | | [Reverse Pairs(Leetcode)]() |
 | | | 
 | **4** | Arrays - IV | [Two Sum]() |  | | | | [Yes] |
-| | | [4-Sum]() |
+| | | [4-Sum]() || | | | [Yes] |
 | | | [Longest Consecutive Sequence]() |
 | | | [Largest Subarray with K Sum]() |
 | | | [Count Number of subarrays with given XOR K]() |
