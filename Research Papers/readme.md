@@ -5,3 +5,4 @@
 | --------| ------|--------------|------|-------|------|-------|-----------------|
 | 1. | [Making AI Less Thirsty : Uncovering and Addressing the Secret Water Footprint of AI Models]() | 
 | 2. | [Smart Agriculture Using UAV and Deep Learning]() | 
+| 3. | 
