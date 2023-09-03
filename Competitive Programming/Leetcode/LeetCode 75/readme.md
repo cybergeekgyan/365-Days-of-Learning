@@ -2,8 +2,8 @@
 
 Ace Coding Interview with 75 Qs
 
-| Sr. No. | Problems | Tags | Code | Video Solution | Blog |
-|---------|----------|------|------|----------------|------|
+| Sr. No. | Problems | Tags | Code | Video Solution | Blog | Solved |
+|---------|----------|------|------|----------------|------|------|
 | 01. | Merge Strings Alternately | `Easy` |
 | 02. | Greatest Common Divisor of Strings | `Easy` |
 | 03. | Kids With the Greatest Number of Candies | `Easy` |
