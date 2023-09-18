@@ -2,6 +2,8 @@
 
 Here are some resources to help you learn about MLOps and how to build and deploy machine learning models effectively:
 
+- https://ml-ops.org/
+
 ## Online Courses and Tutorials:
 
 ### Courses : 
