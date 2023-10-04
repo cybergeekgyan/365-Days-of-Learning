@@ -1,4 +1,3 @@
 # Big Data Tech Stack
 
-- Top aws
-0 top servieceses
+- Top AWS Services to learn for a Big Data Engineer
