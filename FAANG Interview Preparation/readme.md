@@ -54,11 +54,6 @@ Go from : `Brute Force Approach` ▶️ `Optimize Time Complexity` ▶️ `If po
 | Random Randomisation |
 
 
-
-
-
-
-
 ## Other Subjects and Concepts
 
 | Subjects | Best Resources | Days to Prepare | Notes | Blogs |
@@ -73,3 +68,6 @@ Go from : `Brute Force Approach` ▶️ `Optimize Time Complexity` ▶️ `If po
 | [Cloud Computing]() |
 | [AWS + Azure + GCP]() |
        
+
+
+### System Design Concepts 
