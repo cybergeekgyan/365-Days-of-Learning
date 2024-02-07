@@ -72,6 +72,32 @@ Go from : `Brute Force Approach` ▶️ `Optimize Time Complexity` ▶️ `If po
 
 ## System Design Concepts to Know for System Design Interviews
 
+| Topics | Link | Blog |
+| ------|-------|-----|
+| What are Design Fundamentals? |
+| Cliet-Server Architecture/Model |
+| Network Protocols |
+| Storage |
+| Latency & Throughput |
+| Availability |
+| Caching |
+| Proxies |
+| Load Balancers |
+| Hashing & Consistent Hashing |
+| Relational Databases |
+| Key-Value Stores |
+| Specialized Storage Paradigms |
+| Replication & Sharding |
+| Leader Election |
+| Peer-to-Peer Networks |
+| Polling and Streaming |
+| Configuration |
+| Rate-Limiting |
+| Logging & Monitoring |
+| Pulish/Subscribe Pattern |
+| MapReduce | 
+| Security & HTTPS |
+| API Design | 
 
 
 
