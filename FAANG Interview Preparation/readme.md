@@ -122,6 +122,7 @@ Go from : `Brute Force Approach` ▶️ `Optimize Time Complexity` ▶️ `If po
 - Design Twitch
 - Design Dropbox
 - Design Algoexpert
+- Design Vercel
 - Design a Stock Broker & Trading Platform - Zerodha
 - Design Gmail - Emailing Service
 - Design an Online Rail Ticket Booking Service - IRCTC
