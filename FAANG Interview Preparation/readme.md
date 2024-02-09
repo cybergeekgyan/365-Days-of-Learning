@@ -11,9 +11,19 @@ Go from : `Brute Force Approach` ▶️ `Optimize Time Complexity` ▶️ `If po
 - Top 100 Liked Questions
 - CSES Problem Set
 - Striver's SDE Sheet
-- TLE CP Sheet
-- Company Wise Questions 
+- TLE CP Sheet 
+- Company Wise Questions
 
+
+## 📚 Books and Blogs
+
+The gems of the coding community:
+  - https://cses.fi/book.pdf
+  - https://c2ladder.com
+  - https://cp-algorithms.com/
+  - https://usaco.guide/general/intro-cp?lang=cpp
+  - https://blog.shahjalalshohag.com/topic-list/
+  - Learn C++ STL from Rachit Jain or Utkarsh Gupta
 
 ## Data Structures and Algorithms Topics and Concepts
 
@@ -69,7 +79,6 @@ Go from : `Brute Force Approach` ▶️ `Optimize Time Complexity` ▶️ `If po
 | [AWS + Azure + GCP]() |
        
 
-
 ## System Design Concepts to Know for System Design Interviews
 
 | Topics | Short Notes | Watched |
@@ -98,6 +107,7 @@ Go from : `Brute Force Approach` ▶️ `Optimize Time Complexity` ▶️ `If po
 | MapReduce | 
 | Security & HTTPS |
 | API Design | 
+| Capacity Estimation |
 
 
 
