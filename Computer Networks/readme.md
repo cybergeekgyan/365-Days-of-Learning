@@ -26,25 +26,36 @@
 - VPN, advantages, and disadvantages of it 
 - LAN
 
-### Topics 
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-
-| Day | Topics | Description | Video | Notes | Blog |
-| -----|-------|-----------|--------|-------|----| 
-| 01 |  | 
-| 02 |  |
-| 03 |  |
-| 04 |  |
-| 05 |  |
-| 06 |  |
-| 07 |  |
-| 08 |  |
+| Topics | Short Notes | Studied |
+|------|-----------|-------|
+| Introduction to Networks |
+| OSI/TCP Model |
+| Networking Protocols & Standards |
+| IP Addressing |
+| Subnetting & CIDR |
+| Error Control & Flow Control|
+| Networking Devices & Topologies |
+| Routing & Switching |
+| TCP & UDP (TLPs) |
+| NAT |
+| Wireless Networking |
+| DNS & DHCP |
+| MAC | 
+| Switching & IP Support Protocols |
+| Application Layer Protocols (ALPs) |
+| Network Security |
+| QoS (Quality of Service) |
+| Network Management & SNMP |
+| VPNs |
+| Network Attacks | 
+| Network Hardening | 
+| Security Technologies |
+| Network Availability |
+| Network Policies |
+| Software-Defined Networking(SDN) |
+| Cloud-Computing & Networking |
+| Network Function Virualization(NFV) |
+| Network Simulation & Modeling |
+| Troubleshooting(Physical & Wireless Networks and Network Issues) |
+| Network Tools & Commands |
