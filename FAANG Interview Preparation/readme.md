@@ -20,15 +20,15 @@ Go from : `Brute Force Approach` ▶️ `Optimize Time Complexity` ▶️ `If po
 | Topics | Best Resources | Days to Prepare | Short Notes | Blogs |
 | --------|--------------|----------|-------|------|
 | Time and Space Complexity Analysis |
-| Arrays and Vectors |
+| Arrays |
+| Searching + Sorting |
 | Strings + String Algorithms |
 | Matrices/Sparse Matrices |
 | Bit Manipulation |
 | Number Theory + Advanced Number Theory + Theorems |
-| Searching + Sorting |
+| Recursion + Backtracking |
 | Advanced Mathematics |
 | Game Theory |
-| Recursion + Backtracking |
 | Selection Algorithms |
 | LinkedLists |
 | Stacks + Queues |
@@ -46,7 +46,7 @@ Go from : `Brute Force Approach` ▶️ `Optimize Time Complexity` ▶️ `If po
 | Lazy Propagation |
 | Fenwick Trees |
 | Sqrt Decomposition |
-| DSU |
+| DSU(Union Find) |
 | Geometric Algorithms |
 | Mo's Algorithn |
 | Fast Fourier Tranform |
@@ -72,17 +72,17 @@ Go from : `Brute Force Approach` ▶️ `Optimize Time Complexity` ▶️ `If po
 
 ## System Design Concepts to Know for System Design Interviews
 
-| Topics | Link | Blog |
+| Topics | Short Notes | Watched |
 | ------|-------|-----|
-| What are Design Fundamentals? |
-| Cliet-Server Architecture/Model |
-| Network Protocols |
-| Storage |
-| Latency & Throughput |
-| Availability |
-| Caching |
-| Proxies |
-| Load Balancers |
+| What are Design Fundamentals? |   | ✅ |
+| Cliet-Server Architecture/Model |  | ✅ |
+| Network Protocols | | ✅ |
+| Storage | | ✅ |
+| Latency & Throughput | | ✅ |
+| Availability | | ✅ |
+| Caching | | ✅ |
+| Proxies | | ✅ |
+| Load Balancers | | ✅ |
 | Hashing & Consistent Hashing |
 | Relational Databases |
 | Key-Value Stores |
