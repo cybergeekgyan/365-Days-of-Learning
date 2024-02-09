@@ -1,1 +1,36 @@
-## DBMS Resources
+## DBMS Topics & Resources
+
+- Why DBMS?
+- Data Models
+- ER Modeleing
+- Keys (Primary, Secondary, Foreign Key)
+- ACID Properties
+- Different Types of Relationships
+  - 1:1 Relationship
+  - 1:Many Relationship
+  - Many:Many Relationship
+- Normalization & Denormalization of database tables
+- Normal Forms
+- Lock in Database
+- Introduction to SQL
+- Basic SQL commands
+- SQL Joins & Its Types
+- Indexing 
+- Advanced SQL Commands
+- Database Design & SDLC
+- Transaction Management & Concurrency Control
+- Concurrency Control with Locking Methods
+- Database Performance Tuning Concepts
+- Query Processing
+- SQL performance Tuning
+- DBMS Performance Tuning
+- Distributed Database Management Systems
+  - DDBMS Advantages and Disadvantages
+  - DDBMS components
+  - levels of data and process distribution
+  - Distributed Database Transparency features
+  - Distribution & Transaction Transparency
+  - Performance & Failure Transparency
+  - Distributed Database Design
+  - CAP Theorem
+  - 12 Commandments for distributed databases
