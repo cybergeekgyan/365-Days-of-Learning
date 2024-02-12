@@ -92,14 +92,14 @@ The gems of the coding community:
 | Caching | | ✅ |
 | Proxies | | ✅ |
 | Load Balancers | | ✅ |
-| Hashing & Consistent Hashing |
-| Relational Databases |
-| Key-Value Stores |
-| Specialized Storage Paradigms |
-| Replication & Sharding |
-| Leader Election |
-| Peer-to-Peer Networks |
-| Polling and Streaming |
+| Hashing & Consistent Hashing |  | ✅ |
+| Relational Databases |  | ✅ |
+| Key-Value Stores |  | ✅ |
+| Specialized Storage Paradigms |  | ✅ |
+| Replication & Sharding |  | ✅ |
+| Leader Election |  | ✅ |
+| Peer-to-Peer Networks |  | ✅ |
+| Polling and Streaming |  | ✅ |
 | Configuration |
 | Rate-Limiting |
 | Logging & Monitoring |
