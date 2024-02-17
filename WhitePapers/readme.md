@@ -1,6 +1,7 @@
 # Whitepapers To Read To Become a Better Software Engineer
 
 - https://12factor.net
+- https://lethain.com/best-books/
 
 | Paper | Description | 
 |-------|------------|
