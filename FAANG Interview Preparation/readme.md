@@ -7,12 +7,13 @@ Go from : `Brute Force Approach` ▶️ `Optimize Time Complexity` ▶️ `If po
 
 ## Problems to Solve in 45 Days
 
-- Top 150 Leetcode
-- Top 100 Liked Questions
-- CSES Problem Set
-- Striver's SDE Sheet
-- TLE CP Sheet 
-- Company Wise Questions
+- [Top 150 Leetcode](https://leetcode.com/studyplan/top-interview-150/)
+- [Top 100 Liked Questions](https://leetcode.com/studyplan/top-100-liked/)
+- [CSES Problem Set](https://cses.fi/problemset/)
+- [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+- [TLE CP Sheet]()
+- [Neetcode 150 Questions](https://neetcode.io/roadmap)
+- [Company Wise - Must Do Questions]()
 
 
 ## 📚 Books and Blogs
