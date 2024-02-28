@@ -54,14 +54,14 @@
             - Write behind
             - Refresh ahead
     - Asynchronism
-            - Message queues
-            - Task queues
-            - Back pressure
+         - Message queues
+         - Task queues
+         - Back pressure
     - Communication
-            - TCP
-            - UDP
-            - REST
-            - RPC
+         - TCP
+         - UDP
+         - REST
+         - RPC
 ### (6) JUSTIFY [5 min]
 - Throughput of each layer
 - Latency caused between each layer
