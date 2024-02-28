@@ -63,6 +63,6 @@
             - REST
             - RPC
 ### (6) JUSTIFY [5 min]
-	- Throughput of each layer
-	- Latency caused between each layer
-	- Overall latency justification
+- Throughput of each layer
+- Latency caused between each layer
+- Overall latency justification
