@@ -83,10 +83,10 @@ The gems of the coding community:
 
 ## System Design Concepts to Know for System Design Interviews
 
-| Topics | Short Notes | Watched |
+| Topics | Short Notes | Covered |
 | ------|-------|-----|
 | What are Design Fundamentals? |   | ✅ |
-| Cliet-Server Architecture/Model |  | ✅ |
+| Client-Server Architecture/Model |  | ✅ |
 | Network Protocols | | ✅ |
 | Storage | | ✅ |
 | Latency & Throughput | | ✅ |
@@ -102,15 +102,14 @@ The gems of the coding community:
 | Leader Election |  | ✅ |
 | Peer-to-Peer Networks |  | ✅ |
 | Polling and Streaming |  | ✅ |
-| Configuration |
-| Rate-Limiting |
-| Logging & Monitoring |
-| Pulish/Subscribe Pattern |
-| MapReduce | 
-| Security & HTTPS |
-| API Design | 
-| Capacity Estimation |
-
+| Configuration | | ✅ |
+| Rate-Limiting | | ✅ |
+| Logging & Monitoring | | ✅ |
+| Publish/Subscribe Pattern || ✅ |
+| MapReduce | | ✅ |
+| Security & HTTPS | | ✅ |
+| API Design | | ✅ |
+| Capacity Estimation | | ✅ |
 
 
 ## Top Questions to Practice for System Design Interviews
